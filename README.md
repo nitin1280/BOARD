@@ -36,9 +36,15 @@ Step 3 - Run an app
 Once the dependencies are installed, you can run the app:
 
 cd kanban-board
+
 yarn start
+
 # or
+
 npm start
+
 #or
+
 npm run dev
+
 Your browser should open up to a running app.
