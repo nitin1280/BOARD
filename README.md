@@ -3,12 +3,19 @@ A Task board is an agile project management tool designed to help visualize work
 
 
 Features ✨
+
 Drag & drop tasks
+
 CRUD for tasks, labels & columns
+
 Edit task descriptions
+
 Add sub-task
+
 Dark Mode
+
 Development setup 🛠
+
 Steps to locally setup development after cloning the project.
 
 Step 1 - Dependencies
